@@ -1,4 +1,5 @@
-GAN-NETWORK
+# GAN-NETWORK
+
 📁 Project Title: Generative Models in Deep Learning
 🧠 Abstract
 
